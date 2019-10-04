@@ -1,0 +1,11 @@
+D:\DotNetPrograms\ActualListWithinList\CrudOperationsLinq\CrudOperationsLinq\bin\Debug\netcoreapp2.2\CrudOperationsLinq.deps.json
+D:\DotNetPrograms\ActualListWithinList\CrudOperationsLinq\CrudOperationsLinq\bin\Debug\netcoreapp2.2\CrudOperationsLinq.runtimeconfig.json
+D:\DotNetPrograms\ActualListWithinList\CrudOperationsLinq\CrudOperationsLinq\bin\Debug\netcoreapp2.2\CrudOperationsLinq.runtimeconfig.dev.json
+D:\DotNetPrograms\ActualListWithinList\CrudOperationsLinq\CrudOperationsLinq\bin\Debug\netcoreapp2.2\CrudOperationsLinq.dll
+D:\DotNetPrograms\ActualListWithinList\CrudOperationsLinq\CrudOperationsLinq\obj\Debug\netcoreapp2.2\CrudOperationsLinq.csprojAssemblyReference.cache
+D:\DotNetPrograms\ActualListWithinList\CrudOperationsLinq\CrudOperationsLinq\obj\Debug\netcoreapp2.2\CrudOperationsLinq.csproj.CoreCompileInputs.cache
+D:\DotNetPrograms\ActualListWithinList\CrudOperationsLinq\CrudOperationsLinq\obj\Debug\netcoreapp2.2\CrudOperationsLinq.AssemblyInfoInputs.cache
+D:\DotNetPrograms\ActualListWithinList\CrudOperationsLinq\CrudOperationsLinq\obj\Debug\netcoreapp2.2\CrudOperationsLinq.AssemblyInfo.cs
+D:\DotNetPrograms\ActualListWithinList\CrudOperationsLinq\CrudOperationsLinq\bin\Debug\netcoreapp2.2\CrudOperationsLinq.pdb
+D:\DotNetPrograms\ActualListWithinList\CrudOperationsLinq\CrudOperationsLinq\obj\Debug\netcoreapp2.2\CrudOperationsLinq.dll
+D:\DotNetPrograms\ActualListWithinList\CrudOperationsLinq\CrudOperationsLinq\obj\Debug\netcoreapp2.2\CrudOperationsLinq.pdb
